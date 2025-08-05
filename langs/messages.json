@@ -1,0 +1,1019 @@
+{
+    "welcome": {
+        "it": "Benvenuto!",
+        "en": "Welcome!",
+        "de": "Willkommen!",
+        "es": "¡Bienvenido!",
+        "fr": "Bienvenue !",
+        "pt": "Bem-vindo!"
+    },
+    "login": {
+        "it": "Accedi",
+        "en": "Login",
+        "de": "Anmelden",
+        "es": "Iniciar sesión",
+        "fr": "Connexion",
+        "pt": "Entrar"
+    },
+    "logout": {
+        "it": "Esci",
+        "en": "Logout",
+        "de": "Abmelden",
+        "es": "Cerrar sesión",
+        "fr": "Déconnexion",
+        "pt": "Sair"
+    },
+    "language": {
+        "it": "Lingua",
+        "en": "Language",
+        "de": "Sprache",
+        "es": "Idioma",
+        "fr": "Langue",
+        "pt": "Idioma"
+    },
+    "register": {
+        "it": "Registrati",
+        "en": "Register",
+        "de": "Registrieren",
+        "es": "Registrarse",
+        "fr": "S'inscrire",
+        "pt": "Registrar-se"
+    },
+    "profile": {
+        "it": "Profilo",
+        "en": "Profile",
+        "de": "Profil",
+        "es": "Perfil",
+        "fr": "Profil",
+        "pt": "Perfil"
+    },
+    "user_profile": {
+        "it": "Profilo Utente",
+        "en": "User Profile",
+        "de": "Benutzerprofil",
+        "es": "Perfil del usuario",
+        "fr": "Profil de l'utilisateur",
+        "pt": "Perfil do utilizador"
+    },
+    "edit_profile": {
+        "it": "Aggiorna Profilo",
+        "en": "Update Profile",
+        "de": "Profil aktualisieren",
+        "es": "Actualizar perfil",
+        "fr": "Mise à jour du profil",
+        "pt": "Atualizar perfil"
+    },
+    "remember_me": {
+        "it": "Ricordami",
+        "en": "Remember me",
+        "de": "Angemeldet bleiben",
+        "es": "Recuérdame",
+        "fr": "Se souvenir de moi",
+        "pt": "Lembrar-me"
+    },
+    "dashboard": {
+        "it": "Pannello di controllo",
+        "en": "Dashboard",
+        "de": "Dashboard",
+        "es": "Panel de control",
+        "fr": "Tableau de bord",
+        "pt": "Painel de controle"
+    },
+    "forgot_password": {
+        "it": "Password dimenticata",
+        "en": "Forgot password",
+        "de": "Passwort vergessen",
+        "es": "Olvidé mi contraseña",
+        "fr": "Mot de passe oublié",
+        "pt": "Esqueci minha senha"
+    },
+    "please_enter_your_email": {
+        "it": "Inserisci la tua email",
+        "en": "Please enter your email",
+        "de": "Bitte geben Sie Ihre E-Mail ein",
+        "es": "Por favor ingrese su correo electrónico",
+        "fr": "Veuillez entrer votre e-mail",
+        "pt": "Por favor, insira seu e-mail"
+    },
+    "send_recovery_link": {
+        "it": "Invia link di recupero",
+        "en": "Send recovery link",
+        "de": "Wiederherstellungslink senden",
+        "es": "Enviar enlace de recuperación",
+        "fr": "Envoyer le lien de récupération",
+        "pt": "Enviar link de recuperação"
+    },
+    "registration": {
+        "it": "Registrazione",
+        "en": "Registration",
+        "de": "Registrierung",
+        "es": "Registro",
+        "fr": "Inscription",
+        "pt": "Registro"
+    },
+    "all_rights_reserved": {
+        "it": "Tutti i diritti riservati",
+        "en": "All rights reserved",
+        "de": "Alle Rechte vorbehalten",
+        "es": "Todos los derechos reservados",
+        "fr": "Tous droits réservés",
+        "pt": "Todos os direitos reservados"
+    },
+    "italian": {
+        "it": "Italiano",
+        "en": "Italian",
+        "de": "Italienisch",
+        "es": "Italiano",
+        "fr": "Italien",
+        "pt": "Italiano"
+    },
+    "english": {
+        "it": "Inglese",
+        "en": "English",
+        "de": "Englisch",
+        "es": "Inglés",
+        "fr": "Anglais",
+        "pt": "Inglês"
+    },
+    "french": {
+        "it": "Francese",
+        "en": "French",
+        "de": "Französisch",
+        "es": "Francés",
+        "fr": "Français",
+        "pt": "Francês"
+    },
+    "german": {
+        "it": "Tedesco",
+        "en": "German",
+        "de": "Deutsch",
+        "es": "Alemán",
+        "fr": "Allemand",
+        "pt": "Alemão"
+    },
+    "spanish": {
+        "it": "Spagnolo",
+        "en": "Spanish",
+        "de": "Spanisch",
+        "es": "Español",
+        "fr": "Espagnol",
+        "pt": "Espanhol"
+    },
+    "portuguese": {
+        "it": "Portoghese",
+        "en": "Portuguese",
+        "de": "Portugiesisch",
+        "es": "Portugués",
+        "fr": "Portugais",
+        "pt": "Português"
+    },
+    "dark_theme": {
+        "it": "Tema Scuro",
+        "en": "Dark Theme",
+        "de": "Dunkles Thema",
+        "es": "Tema oscuro",
+        "fr": "Thème sombre",
+        "pt": "Tema escuro"
+    },
+    "light_theme": {
+        "it": "Tema Chiaro",
+        "en": "Light Theme",
+        "de": "Helles Thema",
+        "es": "Tema claro",
+        "fr": "Thème clair",
+        "pt": "Tema claro"
+    },
+    "create_your_account": {
+        "it": "Crea il tuo account",
+        "en": "Create your account",
+        "de": "Erstelle dein Konto",
+        "es": "Crea tu cuenta",
+        "fr": "Créez votre compte",
+        "pt": "Crie sua conta"
+    },
+    "admin": {
+        "it": "Amministratore",
+        "en": "Administrator",
+        "de": "Administrator",
+        "es": "Administrador",
+        "fr": "Administrateur",
+        "pt": "Administrador"
+    },
+    "moderator": {
+        "it": "Moderatore",
+        "en": "Moderator",
+        "de": "Moderator",
+        "es": "Moderador",
+        "fr": "Modérateur",
+        "pt": "Moderador"
+    },
+    "user": {
+        "it": "Utente",
+        "en": "User",
+        "de": "Benutzer",
+        "es": "Usuario",
+        "fr": "Utilisateur",
+        "pt": "Utilizador"
+    },
+    "name": {
+        "it": "Nome",
+        "en": "Name",
+        "de": "Name",
+        "es": "Nombre",
+        "fr": "Nom",
+        "pt": "Nome"
+    },
+    "surname": {
+        "it": "Cognome",
+        "en": "Surname",
+        "de": "Nachname",
+        "es": "Apellido",
+        "fr": "Prénom",
+        "pt": "Sobrenome"
+    },
+    "username": {
+        "it": "Nome Utente",
+        "en": "Username",
+        "de": "Benutzername",
+        "es": "Nombre de usuario",
+        "fr": "Nom d'utilisateur",
+        "pt": "Nome de usuário"
+    },
+    "email": {
+        "it": "Email",
+        "en": "Email",
+        "de": "E-Mail",
+        "es": "Correo electrónico",
+        "fr": "E-mail",
+        "pt": "E-mail"
+    },
+    "password": {
+        "it": "Password",
+        "en": "Password",
+        "de": "Passwort",
+        "es": "Contraseña",
+        "fr": "Mot de passe",
+        "pt": "Senha"
+    },
+    "confirm_password": {
+        "it": "Conferma Password",
+        "en": "Confirm Password",
+        "de": "Passwort bestätigen",
+        "es": "Confirmar contraseña",
+        "fr": "Confirmer le mot de passe",
+        "pt": "Confirmar senha"
+    },
+    "avatar_optional": {
+        "it": "Avatar (opzionale)",
+        "en": "Avatar (optional)",
+        "de": "Avatar (optional)",
+        "es": "Avatar (opcional)",
+        "fr": "Avatar (optionnel)",
+        "pt": "Avatar (opcional)"
+    },
+    "change_avatar": {
+        "it": "Cambia Avatar",
+        "en": "Change Avatar",
+        "de": "Avatar ändern",
+        "es": "Cambiar avatar",
+        "fr": "Changer d'avatar",
+        "pt": "Mudar avatar"
+    },
+    "change_password": {
+        "it": "Cambia Password",
+        "en": "Change Password",
+        "de": "Passwort ändern",
+        "es": "Cambiar contraseña",
+        "fr": "Modifier le mot de passe",
+        "pt": "Alterar a palavra-passe"
+    },
+    "biography": {
+        "it": "Biografia",
+        "en": "Biography",
+        "de": "Biografie",
+        "es": "Biografía",
+        "fr": "Biographie",
+        "pt": "Biografia"
+    },
+    "telephone": {
+        "it": "Telefono",
+        "en": "Phone",
+        "de": "Telefon",
+        "es": "Teléfono",
+        "fr": "Téléphone",
+        "pt": "Telefone"
+    },
+    "city": {
+        "it": "Città",
+        "en": "City",
+        "de": "Stadt",
+        "es": "Ciudad",
+        "fr": "Ville",
+        "pt": "Cidade"
+    },
+    "address": {
+        "it": "Indirizzo",
+        "en": "Address",
+        "de": "Adresse",
+        "es": "Dirección",
+        "fr": "Adresse",
+        "pt": "Endereço"
+    },
+    "postcode": {
+        "it": "CAP",
+        "en": "Postal Code",
+        "de": "Postleitzahl",
+        "es": "Código postal",
+        "fr": "Code postal",
+        "pt": "Código postal"
+    },
+    "province": {
+        "it": "Provincia",
+        "en": "Province",
+        "de": "Provinz",
+        "es": "Provincia",
+        "fr": "Province",
+        "pt": "Província"
+    },
+    "country": {
+        "it": "Nazione",
+        "en": "Country",
+        "de": "Land",
+        "es": "País",
+        "fr": "Pays",
+        "pt": "País"
+    },
+    "save_changes": {
+        "it": "Salva Modifiche",
+        "en": "Save Changes",
+        "de": "Änderungen speichern",
+        "es": "Guardar cambios",
+        "fr": "Enregistrer les modifications",
+        "pt": "Salvar alterações"
+    },
+    "do_you_already_have_an_account": {
+        "it": "Hai già un account?",
+        "en": "Already have an account?",
+        "de": "Hast du schon ein Konto?",
+        "es": "¿Ya tienes una cuenta?",
+        "fr": "Vous avez déjà un compte ?",
+        "pt": "Já tem uma conta?"
+    },
+    "welcome_to_the_user_login_and_registration_system": {
+        "it": "Benvenuto! in Accesso e Registrazione",
+        "en": "Welcome to the Login and Registration system!",
+        "de": "Willkommen im Anmelde- und Registrierungssystem!",
+        "es": "¡Bienvenido al sistema de inicio de sesión y registro!",
+        "fr": "Bienvenue dans le système de connexion et d'inscription !",
+        "pt": "Bem-vindo ao sistema de login e registro!"
+    },
+    "a_secure_modern_multilingual_registration_system": {
+        "it": "Un sistema di registrazione sicuro, moderno e multilingua.",
+        "en": "A secure, modern and multilingual registration system.",
+        "de": "Ein sicheres, modernes und mehrsprachiges Registrierungssystem.",
+        "es": "Un sistema de registro seguro, moderno y multilingüe.",
+        "fr": "Un système d'inscription sécurisé, moderne et multilingue.",
+        "pt": "Um sistema de registro seguro, moderno e multilíngue."
+    },
+    "resend_in": {
+        "it": "Reinvia tra",
+        "en": "Resend in",
+        "de": "Erneut senden in",
+        "es": "Reenviar en",
+        "fr": "Renvoyer dans",
+        "pt": "Reenviar em"
+    },
+    "seconds": {
+        "it": "secondi",
+        "en": "seconds",
+        "de": "Sekunden",
+        "es": "segundos",
+        "fr": "secondes",
+        "pt": "segundos"
+    },
+    "resend_code": {
+        "it": "Reinvia codice",
+        "en": "Resend code",
+        "de": "Code erneut senden",
+        "es": "Reenviar código",
+        "fr": "Renvoyer le code",
+        "pt": "Reenviar código"
+    },
+    "welcome_to_login_and_registration": {
+        "it": "Benvenuto su Accesso e Registrazione",
+        "en": "Welcome to Login and Registration",
+        "de": "Willkommen bei Anmeldung und Registrierung",
+        "es": "Bienvenido a Inicio de sesión y Registro",
+        "fr": "Bienvenue sur Connexion et Inscription",
+        "pt": "Bem-vindo ao Login e Registro"
+    },
+    "login_registration": {
+        "it": "Accedi o Registrati",
+        "en": "Login or Register",
+        "de": "Anmelden oder Registrieren",
+        "es": "Inicia sesión o Regístrate",
+        "fr": "Connectez-vous ou Inscrivez-vous",
+        "pt": "Entrar ou Registrar-se"
+    },
+    "light": {
+        "it": "Chiaro",
+        "en": "Light",
+        "de": "Hell",
+        "es": "Claro",
+        "fr": "Clair",
+        "pt": "Claro"
+    },
+    "dark": {
+        "it": "Scuro",
+        "en": "Dark",
+        "de": "Dunkel",
+        "es": "Oscuro",
+        "fr": "Sombre",
+        "pt": "Escuro"
+    },
+    "validation": {
+        "field_is_required": {
+            "it": "Il campo :field è obbligatorio.",
+            "en": "The :field field is required.",
+            "de": "Das Feld :field ist erforderlich.",
+            "es": "El campo :field es obligatorio.",
+            "fr": "Le champ :field est obligatoire.",
+            "pt": "O campo :field é obrigatório."
+        },
+        "invalid_email": {
+            "it": "Formato email non valido.",
+            "en": "Invalid email format.",
+            "de": "Ungültiges E-Mail-Format.",
+            "es": "Formato de correo electrónico no válido.",
+            "fr": "Format d'e-mail invalide.",
+            "pt": "Formato de e-mail inválido."
+        },
+        "min_length": {
+            "it": "Deve contenere almeno :min caratteri.",
+            "en": "Must be at least :min characters.",
+            "de": "Muss mindestens :min Zeichen enthalten.",
+            "es": "Debe tener al menos :min caracteres.",
+            "fr": "Doit contenir au moins :min caractères.",
+            "pt": "Deve conter pelo menos :min caracteres."
+        },
+        "max_length": {
+            "it": "Non può superare :max caratteri.",
+            "en": "Must not exceed :max characters.",
+            "de": "Darf :max Zeichen nicht überschreiten.",
+            "es": "No debe superar los :max caracteres.",
+            "fr": "Ne doit pas dépasser :max caractères.",
+            "pt": "Não deve exceder :max caracteres."
+        },
+        "match": {
+            "it": "Il campo non corrisponde a :other.",
+            "en": "The field does not match :other.",
+            "de": "Das Feld stimmt nicht mit :other überein.",
+            "es": "El campo no coincide con :other.",
+            "fr": "Le champ ne correspond pas à :other.",
+            "pt": "O campo não corresponde a :other."
+        },
+        "existing_value": {
+            "it": "Questo valore esiste già.",
+            "en": "This value already exists.",
+            "de": "Dieser Wert existiert bereits.",
+            "es": "Este valor ya existe.",
+            "fr": "Cette valeur existe déjà.",
+            "pt": "Este valor já existe."
+        },
+        "invalid_format": {
+            "it": "Formato non valido.",
+            "en": "Invalid format.",
+            "de": "Ungültiges Format.",
+            "es": "Formato no válido.",
+            "fr": "Format invalide.",
+            "pt": "Formato inválido."
+        },
+        "numeric": {
+            "it": "Il campo :field deve essere un numero.",
+            "en": "The :field field must be a number.",
+            "de": "Das Feld :field muss eine Zahl sein.",
+            "es": "El campo :field debe ser un número.",
+            "fr": "Le champ :field doit être un nombre.",
+            "pt": "O campo :field deve ser um número."
+        },
+        "alpha": {
+            "it": "Il campo :field può contenere solo lettere.",
+            "en": "The :field field may contain only letters.",
+            "de": "Das Feld :field darf nur Buchstaben enthalten.",
+            "es": "El campo :field solo puede contener letras.",
+            "fr": "Le champ :field ne peut contenir que des lettres.",
+            "pt": "O campo :field pode conter apenas letras."
+        },
+        "alpha_num": {
+            "it": "Il campo :field può contenere solo lettere e numeri.",
+            "en": "The :field field may contain only letters and numbers.",
+            "de": "Das Feld :field darf nur Buchstaben und Zahlen enthalten.",
+            "es": "El campo :field solo puede contener letras y números.",
+            "fr": "Le champ :field ne peut contenir que des lettres et des chiffres.",
+            "pt": "O campo :field pode conter apenas letras e números."
+        },
+        "date": {
+            "it": "Il campo :field deve essere una data valida.",
+            "en": "The :field field must be a valid date.",
+            "de": "Das Feld :field muss ein gültiges Datum sein.",
+            "es": "El campo :field debe ser una fecha válida.",
+            "fr": "Le champ :field doit être une date valide.",
+            "pt": "O campo :field deve ser uma data válida."
+        },
+        "accepted": {
+            "it": "Il campo :field deve essere accettato.",
+            "en": "The :field field must be accepted.",
+            "de": "Das Feld :field muss akzeptiert werden.",
+            "es": "El campo :field debe ser aceptado.",
+            "fr": "Le champ :field doit être accepté.",
+            "pt": "O campo :field deve ser aceito."
+        },
+        "boolean": {
+            "it": "Il campo :field deve essere vero o falso.",
+            "en": "The :field field must be true or false.",
+            "de": "Das Feld :field muss wahr oder falsch sein.",
+            "es": "El campo :field debe ser verdadero o falso.",
+            "fr": "Le champ :field doit être vrai ou faux.",
+            "pt": "O campo :field deve ser verdadeiro ou falso."
+        }
+    },
+    "session_expired_please_log_in_again": {
+        "it": "Sessione scaduta. Effettua nuovamente il login.",
+        "en": "Session expired. Please log in again.",
+        "de": "Sitzung abgelaufen. Bitte erneut anmelden.",
+        "es": "Sesión expirada. Por favor, inicie sesión de nuevo.",
+        "fr": "Session expirée. Veuillez vous reconnecter.",
+        "pt": "Sessão expirada. Por favor, faça login novamente."
+    },
+    "invalid_credentials": {
+        "it": "Credenziali non valide.",
+        "en": "Invalid credentials.",
+        "de": "Ungültige Zugangsdaten.",
+        "es": "Credenciales no válidas.",
+        "fr": "Identifiants invalides.",
+        "pt": "Credenciais inválidas."
+    },
+    "account_not_active": {
+        "it": "Account non attivo.",
+        "en": "Account not active.",
+        "de": "Konto nicht aktiv.",
+        "es": "Cuenta no activa.",
+        "fr": "Compte inactif.",
+        "pt": "Conta inativa."
+    },
+    "logout_performed": {
+        "it": "Logout eseguito.",
+        "en": "Logout performed.",
+        "de": "Abmeldung durchgeführt.",
+        "es": "Cierre de sesión realizado.",
+        "fr": "Déconnexion effectuée.",
+        "pt": "Logout realizado."
+    },
+    "error_loading_image": {
+        "it": "Errore durante il caricamento dell'immagine.",
+        "en": "Error loading image.",
+        "de": "Fehler beim Laden des Bildes.",
+        "es": "Error al cargar la imagen.",
+        "fr": "Erreur lors du chargement de l'image.",
+        "pt": "Erro ao carregar a imagem."
+    },
+    "error_during_registration_please_try_again": {
+        "it": "Errore durante la registrazione. Riprova.",
+        "en": "Error during registration. Please try again.",
+        "de": "Fehler bei der Registrierung. Bitte versuche es erneut.",
+        "es": "Error durante el registro. Por favor, inténtalo de nuevo.",
+        "fr": "Erreur lors de l'inscription. Veuillez réessayer.",
+        "pt": "Erro durante o registro. Por favor, tente novamente."
+    },
+    "check_your_email_to_activate_your_account": {
+        "it": "Controlla la tua email per attivare l'account.",
+        "en": "Check your email to activate your account.",
+        "de": "Überprüfe deine E-Mail, um dein Konto zu aktivieren.",
+        "es": "Revisa tu correo electrónico para activar tu cuenta.",
+        "fr": "Vérifiez votre e-mail pour activer votre compte.",
+        "pt": "Verifique seu e-mail para ativar sua conta."
+    },
+    "internal_error_please_try_again_later": {
+        "it": "Errore interno. Riprova più tardi.",
+        "en": "Internal error. Please try again later.",
+        "de": "Interner Fehler. Bitte versuche es später erneut.",
+        "es": "Error interno. Por favor, inténtalo más tarde.",
+        "fr": "Erreur interne. Veuillez réessayer plus tard.",
+        "pt": "Erro interno. Por favor, tente novamente mais tarde."
+    },
+    "missing_token": {
+        "it": "Token mancante.",
+        "en": "Missing token.",
+        "de": "Token fehlt.",
+        "es": "Token faltante.",
+        "fr": "Jeton manquant.",
+        "pt": "Token ausente."
+    },
+    "invalid_token_or_account_already_activated": {
+        "it": "Token non valido o account già attivato.",
+        "en": "Invalid token or account already activated.",
+        "de": "Ungültiger Token oder Konto bereits aktiviert.",
+        "es": "Token no válido o cuenta ya activada.",
+        "fr": "Jeton invalide ou compte déjà activé.",
+        "pt": "Token inválido ou conta já ativada."
+    },
+    "account_successfully_activated_you_can_now_log_in": {
+        "it": "Account attivato con successo! Ora puoi accedere.",
+        "en": "Account successfully activated! You can now log in.",
+        "de": "Konto erfolgreich aktiviert! Du kannst dich jetzt anmelden.",
+        "es": "¡Cuenta activada con éxito! Ahora puedes iniciar sesión.",
+        "fr": "Compte activé avec succès ! Vous pouvez maintenant vous connecter.",
+        "pt": "Conta ativada com sucesso! Agora você pode fazer login."
+    },
+    "recovery_email_sent_if_address_is_valid": {
+        "it": "Email di recupero inviata (se l'indirizzo è valido).",
+        "en": "Recovery email sent (if the address is valid).",
+        "de": "Wiederherstellungs-E-Mail gesendet (falls die Adresse gültig ist).",
+        "es": "Correo de recuperación enviado (si la dirección es válida).",
+        "fr": "E-mail de récupération envoyé (si l'adresse est valide).",
+        "pt": "E-mail de recuperação enviado (se o endereço for válido)."
+    },
+    "token_expired_or_invalid": {
+        "it": "Token scaduto o non valido",
+        "en": "Token expired or invalid",
+        "de": "Token abgelaufen oder ungültig",
+        "es": "Token caducado o no válido",
+        "fr": "Jeton expiré ou invalide",
+        "pt": "Token expirado ou inválido"
+    },
+    "invalid_token": {
+        "it": "Token non valido.",
+        "en": "Invalid token.",
+        "de": "Ungültiger Token.",
+        "es": "Token no válido.",
+        "fr": "Jeton invalide.",
+        "pt": "Token inválido."
+    },
+    "password_updated": {
+        "it": "Password aggiornata.",
+        "en": "Password updated.",
+        "de": "Passwort aktualisiert.",
+        "es": "Contraseña actualizada.",
+        "fr": "Mot de passe mis à jour.",
+        "pt": "Senha atualizada."
+    },
+    "two_step_verification": {
+        "it": "Verifica in due fasi.",
+        "en": "Two-stage verification.",
+        "de": "Zweistufige Überprüfung.",
+        "es": "Verificación en dos fases.",
+        "fr": "Vérification en deux étapes.",
+        "pt": "Verificação em duas fases."
+    },
+    "code_received_by_email": {
+        "it": "Codice ricevuto via e-mail.",
+        "en": "Code received by email.",
+        "de": "Code per e-mail erhalten.",
+        "es": "Código recibido por e-mail.",
+        "fr": "Code reçu par e-mail.",
+        "pt": "Código recebido por correio eletrónico."
+    },
+    "verify_code": {
+        "it": "Verifica codice",
+        "en": "Verify code",
+        "de": "Code überprüfen",
+        "es": "Verificar código",
+        "fr": "Vérification du code",
+        "pt": "Verificar o código"
+    },
+    "didn_t_you_receive_the_code": {
+        "it": "Non hai ricevuto il codice?",
+        "en": "Didn't you receive the code?",
+        "de": "Haben Sie den Code nicht erhalten?",
+        "es": "No ha recibido el código?",
+        "fr": "Vous n'avez pas reçu le code?",
+        "pt": "Não recebeu o código?"
+    },
+    "recover_your_password": {
+        "it": "Recupera la tua password.",
+        "en": "Recover your password.",
+        "de": "Ihr Passwort wiederherstellen.",
+        "es": "Recuperar la contraseña.",
+        "fr": "Récupérer son mot de passe.",
+        "pt": "Recuperar a sua palavra-passe"
+    },
+    "click_on_the_link_to_reset_your_password": {
+        "it": "Clicca sul link per reimpostare la tua password",
+        "en": "Click on the link to reset your password",
+        "de": "Klicken Sie auf den Link, um Ihr Passwort zurückzusetzen",
+        "es": "Haga clic en el enlace para restablecer su contraseña",
+        "fr": "Cliquez sur le lien pour réinitialiser votre mot de passe",
+        "pt": "Clique na ligação para redefinir a sua palavra-passe"
+    },
+    "your_verification_code_is": {
+        "it": "Il tuo codice di verifica è",
+        "en": "Your verification code is",
+        "de": "Der verifya-code lautet",
+        "es": "El código verifya es",
+        "fr": "Le code verifya est le suivant",
+        "pt": "O código verifya é"
+    },
+    "verification_code_2fa": {
+        "it": "Codice di verifica 2FA",
+        "en": "Verification code 2FA",
+        "de": "Verifya code 2FA",
+        "es": "Código de verificación 2FA",
+        "fr": "Code de vérification 2FA",
+        "pt": "Código de verificação 2FA"
+    },
+    "user_management": {
+        "it": "Gestione utenti",
+        "en": "User management",
+        "de": "Benutzerverwaltung",
+        "es": "Gestión de usuarios",
+        "fr": "Gestion des utilisateurs",
+        "pt": "Gestão de utilizadores"
+    },
+        "previous": {
+        "it": "Precedente",
+        "en": "Previous",
+        "de": "Zurück",
+        "es": "Anterior",
+        "fr": "Précédent",
+        "pt": "Anterior"
+    },
+    "next": {
+        "it": "Successivo",
+        "en": "Next",
+        "de": "Weiter",
+        "es": "Siguiente",
+        "fr": "Suivant",
+        "pt": "Próximo"
+    },
+    "ip_address": {
+        "it": "Indirizzo IP",
+        "en": "Ip Address",
+        "de": "IP-Adresse",
+        "es": "Dirección IP",
+        "fr": "Adresse IP",
+        "pt": "Endereço IP"
+    },
+    "route": {
+        "it": "Percorso",
+        "en": "Route",
+        "de": "Pfad",
+        "es": "Ruta",
+        "fr": "Chemin",
+        "pt": "Caminho"    
+    },
+    "level": {
+        "it": "Livello",
+        "en": "Level",
+        "de": "Ebene",
+        "es": "Nivel",
+        "fr": "Niveau",
+        "pt": "Nível"    
+    },
+    "filter": {
+        "it": "Filtra",
+        "en": "Filter",
+        "de": "Filter",
+        "es": "Filtro",
+        "fr": "Filtre",
+        "pt": "Filtro"    
+    },
+    "date": {
+        "it": "Data",
+        "en": "Date",
+        "de": "Datum",
+        "es": "Fecha",
+        "fr": "Date",
+        "pt": "Data"      
+    },
+    "message": {
+        "it": "Messaggio",
+        "en": "Message",
+        "de": "Nachricht",
+        "es": "Mensaje",
+        "fr": "Message",
+        "pt": "Mensagem"      
+    },
+    "ip": {
+        "it": "IP",
+        "en": "IP",
+        "de": "IP",
+        "es": "IP",
+        "fr": "IP",
+        "pt": "IP"      
+    },
+    "file": {
+        "it": "File",
+        "en": "File",
+        "de": "Datei",
+        "es": "Archivo",
+        "fr": "Fichier",
+        "pt": "Ficheiro"      
+    },
+    "all_levels": {
+        "it": "Tutti i livelli",
+        "en": "All levels",
+        "de": "Alle Stufen",
+        "es": "Todos los niveles",
+        "fr": "Tous les niveaux",
+        "pt": "Todos os níveis"     
+    },
+    "access_denied_login": {
+        "it": "Accesso negato",
+        "en": "Access denied",
+        "de": "Zugang verweigert",
+        "es": "Acceso denegado",
+        "fr": "Accès refusé",
+        "pt": "Acesso negado"   
+    },
+    "info": {
+        "it": "Info",
+        "en": "Info",
+        "de": "Infos",
+        "es": "Información",
+        "fr": "Info",
+        "pt": "Informações"    
+    },
+    "warning": {
+        "it": "Avvertimento",
+        "en": "Warning",
+        "de": "Warnung",
+        "es": "Advertencia",
+        "fr": "Avertissement",
+        "pt": "Aviso"    
+    },
+    "error": {
+        "it": "Errore",
+        "en": "Error",
+        "de": "Fehler",
+        "es": "Error",
+        "fr": "Erreur",
+        "pt": "Erro"    
+    },
+    "search_logs": {
+        "it": "Cerca nei log",
+        "en": "Search logs",
+        "de": "Protokolle durchsuchen",
+        "es": "Registros de búsqueda",
+        "fr": "Journaux de recherche",
+        "pt": "Registos de pesquisa"    
+    },
+    "now": {
+        "it": "Ora",
+        "en": "Now",
+        "de": "Stunde",
+        "es": "Hora",
+        "fr": "Heure",
+        "pt": "Hora"    
+    },
+    "data": {
+        "it": "Dati",
+        "en": "Data",
+        "de": "Daten",
+        "es": "Datos",
+        "fr": "Données",
+        "pt": "Dados"    
+    },
+    "system_logs": {
+        "it": "Log di sistema",
+        "en": "System logs",
+        "de": "System-Protokolle",
+        "es": "Registros del sistema",
+        "fr": "Journaux du système",
+        "pt": "Registos do sistema"    
+    },
+    "change_your_password": {
+        "it": "Cambiare la password",
+        "en": "Change your password",
+        "de": "Ändern Sie Ihr Passwort",
+        "es": "Cambiar la contraseña",
+        "fr": "Modifier votre mot de passe",
+        "pt": "Alterar a sua palavra-passe"    
+    },
+    "current_password": {
+        "it": "Password corrente",
+        "en": "Current password",
+        "de": "Aktuelles Passwort",
+        "es": "Contraseña actual",
+        "fr": "Mot de passe actuel",
+        "pt": "Palavra-passe atual"    
+    },
+    "new_password": {
+        "it": "Nuova Password",
+        "en": "New password",
+        "de": "Neues Passwort",
+        "es": "Nueva contraseña",
+        "fr": "Nouveau mot de passe",
+        "pt": "Nova palavra-passe"    
+    },
+    "confirm_new_password": {
+        "it": "Conferma la nuova password",
+        "en": "Confirm new password",
+        "de": "Bestätigen Sie das neue Passwort",
+        "es": "Confirmar nueva contraseña",
+        "fr": "Confirmer le nouveau mot de passe",
+        "pt": "Confirmar nova palavra-passe"    
+    },
+    "update_password": {
+        "it": "Aggiorna password",
+        "en": "Update password",
+        "de": "Passwort ändern",
+        "es": "Actualizar contraseña",
+        "fr": "Mise à jour du mot de passe",
+        "pt": "Atualizar a palavra-passe"    
+    },
+    "role": {
+        "it": "Ruolo",
+        "en": "Role",
+        "de": "Rolle",
+        "es": "Rol",
+        "fr": "Rôle",
+        "pt": "Papel"    
+    },
+    "active": {
+        "it": "Attivo",
+        "en": "Active",
+        "de": "Aktiv",
+        "es": "Activo",
+        "fr": "Actif",
+        "pt": "Ativo"    
+    },
+    "actions": {
+        "it": "Azioni",
+        "en": "Actions",
+        "de": "Aktionen",
+        "es": "Acciones",
+        "fr": "Actions",
+        "pt": "Acções"    
+    },"all_roles": {
+        "it": "Tutti i ruoli",
+        "en": "All roles",
+        "de": "Alle Rollen",
+        "es": "Todos los roles",
+        "fr": "Tous les rôles",
+        "pt": "Todos os papéis"    
+    },
+    "search_lasr_name_or_email": {
+        "it": "Cerca cognome o email...",
+        "en": "Search last name or email...",
+        "de": "Nachname oder E-Mail suchen...",
+        "es": "Buscar apellido o email...",
+        "fr": "Rechercher le nom de famille ou l'email...",
+        "pt": "Pesquisar apelido ou e-mail..."    
+    },
+    "deactivated": {
+        "it": "Disattivo",
+        "en": "Deactivated",
+        "de": "Deaktiviert",
+        "es": "Desactivado",
+        "fr": "Désactivé",
+        "pt": "Desativado"    
+    },
+    "edit": {
+        "it": "Modifica",
+        "en": "Edit",
+        "de": "Bearbeiten",
+        "es": "Editar",
+        "fr": "Editer",
+        "pt": "Editar"    
+    },
+    "edit_user": {
+        "it": "Modifica Utente",
+        "en": "Edit User",
+        "de": "Benutzer Bearbeiten",
+        "es": "Editar Usuario",
+        "fr": "Modifier l'Utilisateur",
+        "pt": "Editar Utilizador"    
+    },
+    "active_user": {
+        "it": "Utente attivo",
+        "en": "Active user",
+        "de": "Aktiver Benutzer",
+        "es": "Usuario activo",
+        "fr": "Utilisateur actif",
+        "pt": "Utilizador ativo"    
+    },
+    "back_to_list": {
+        "it": "Torna alla lista",
+        "en": "Back to list",
+        "de": "Zurück zur Liste",
+        "es": "Volver a la lista",
+        "fr": "Retour à la liste",
+        "pt": "Voltar à lista"    
+    },
+    "user_successfully_updated": {
+        "it": "Utente aggiornato con successo.",
+        "en": "User successfully updated.",
+        "de": "Benutzer erfolgreich aktualisiert.",
+        "es": "Usuario actualizado correctamente.",
+        "fr": "Mise à jour de l'utilisateur réussie.",
+        "pt": "Utilizador atualizado com sucesso."     
+    },
+    "profile_successfully_updated": {
+        "it": "Profilo aggiornato con successo.",
+        "en": "Profile successfully updated.",
+        "de": "Profil erfolgreich aktualisiert.",
+        "es": "Perfil actualizado correctamente.",
+        "fr": "Mise à jour du profil réussie.",
+        "pt": "Perfil atualizado com sucesso."    
+    }
+}
