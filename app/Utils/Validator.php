@@ -3,7 +3,6 @@ namespace App\Utils;
 
 use App\Core\Database;
 use App\Utils\Flash;
-use App\Utils\Lang;
 
 class Validator
 {
@@ -27,23 +26,23 @@ class Validator
                 [$ruleName, $param] = array_pad(explode(':', $rule, 2), 2, null);
 
                 if ($ruleName === 'required' && $value === '') {
-                    $this->addError($field, Lang::t('validation.field_is_required', ['field' => $field]));
+                    $this->addError($field, __('validation.field_is_required', ['field' => $field]));
                 }
 
                 if ($ruleName === 'email' && !filter_var($value, FILTER_VALIDATE_EMAIL)) {
-                    $this->addError($field, Lang::t('validation.invalid_email'));
+                    $this->addError($field, __('validation.invalid_email'));
                 }
 
                 if ($ruleName === 'min' && strlen($value) < (int)$param) {
-                    $this->addError($field, Lang::t('validation.min_length', ['min' => $param]));
+                    $this->addError($field, __('validation.min_length', ['min' => $param]));
                 }
 
                 if ($ruleName === 'max' && strlen($value) > (int)$param) {
-                    $this->addError($field, Lang::t('validation.max_length', ['max' => $param]));
+                    $this->addError($field, __('validation.max_length', ['max' => $param]));
                 }
 
                 if ($ruleName === 'match' && $value !== ($this->data[$param] ?? '')) {
-                    $this->addError($field, Lang::t('validation.match', ['other' => $param]));
+                    $this->addError($field, __('validation.match', ['other' => $param]));
                 }
 
                 if ($ruleName === 'unique') {
@@ -59,12 +58,12 @@ class Validator
 
                     $exists = $db->fetch($query, $params);
                     if ($exists) {
-                        $this->addError($field, Lang::t('validation.existing_value'));
+                        $this->addError($field, __('validation.existing_value'));
                     }
                 }
 
                 if ($ruleName === 'regex' && !preg_match($param, $value)) {
-                    $this->addError($field, Lang::t('validation.invalid_format'));
+                    $this->addError($field, __('validation.invalid_format'));
                 }
             }
         }
