@@ -56,3 +56,8 @@ public/avatars/
 # ===============================
 .DS_Store
 Thumbs.db
+
+# Ignora tutti i JSON in langs
+langs/*.json
+# Eccezione: tieni solo messages.json
+!langs/messages.json
