@@ -29,7 +29,7 @@ Sistema completo di registrazione utente
 
 1. Clona il progetto:
    ```bash
-   git clone https://github.com/tuo-utente/registration.git
+   git clone https://github.com/tuo-utente/login-register.git
    ```
 
 2. Crea il database `registration_db` in MySQL
