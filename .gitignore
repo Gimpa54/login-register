@@ -1,4 +1,58 @@
+# ===============================
+# ⚠️ File sensibili e credenziali
+# ===============================
+.env
+*.env
+.env.*
+*.key
+*.pem
+*.crt
+*.cert
+*.p12
+*.pfx
+*.txt
+!README.txt  # consente solo README.txt
+
+# ===============================
+# ⚙️ Configurazioni locali
+# ===============================
+.vscode/
+.idea/
+*.log
+storage/logs/
+*.pid
+
+# ===============================
+# 📦 Dipendenze e build
+# ===============================
 vendor/
 node_modules/
-.env
-storage/logs/
+dist/
+build/
+.cache/
+tmp/
+temp/
+
+# ===============================
+# 💾 Database dump e backup
+# ===============================
+*.sql
+*.sqlite
+*.db
+*.bak
+*.tar
+*.zip
+*.gz
+*.7z
+ # ===============================
+# 📷 Uploads e file utente
+# ===============================
+storage/uploads/
+public/uploads/
+public/avatars/
+
+# ===============================
+# 🚫 Sistema operativo
+# ===============================
+.DS_Store
+Thumbs.db
