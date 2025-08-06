@@ -32,7 +32,7 @@ Sistema completo di registrazione utente
    git clone https://github.com/tuo-utente/login-register.git
    ```
 
-2. Crea il database `registration_db` in MySQL
+2. Crea il database `login_register_db` in MySQL
 
 3. Copia e configura il file `.env` con le tue credenziali
 
@@ -41,7 +41,7 @@ Sistema completo di registrazione utente
    php -S localhost:8000 -t public
    ```
 
-5. Accedi all'app: [http://registration.local](http://registration.local)
+5. Accedi all'app: [http://login-register.local](http://login-register.local)
 
 ---
 
