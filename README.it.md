@@ -67,13 +67,15 @@ Sistema completo di registrazione utente
 
 ## 📄 Struttura del progetto
 
-project-name/
-│
-├── app/            # Codice dell'applicazione
-├── public/         # File accessibili pubblicamente
-├── storage/        # Log, cache, upload
-├── .env.example    # File di configurazione di esempio
-└── README.md       # Documentazione
+	```plaintext
+
+	project-name/
+	│
+	├── app/            # Codice dell'applicazione
+	├── public/         # File accessibili pubblicamente
+	├── storage/        # Log, cache, upload
+	├── .env.example    # File di configurazione di esempio
+	└── README.md       # Documentazione
 
 ---
 
@@ -92,7 +94,7 @@ project-name/
 
 Copyright (c) 2025 Giampaolo Arienti
 
-Con la presente si concede il permesso, a titolo gratuito, a chiunque ottenga una copia
+<pre>Con la presente si concede il permesso, a titolo gratuito, a chiunque ottenga una copia
 di questo software e dei file di documentazione associati (il "Software"), di trattare
 il Software senza alcuna restrizione, inclusi, senza limitazioni, i diritti
 di usare, copiare, modificare, unire, pubblicare, distribuire, concedere in sublicenza e/o vendere
@@ -107,4 +109,4 @@ IMPLICITE, INCLUSE, A TITOLO ESEMPLIFICATIVO, LE GARANZIE DI COMMERCIABILITÀ,
 IDONEITÀ PER UNO SCOPO PARTICOLARE E NON VIOLAZIONE. IN NESSUN CASO GLI
 AUTORI O I DETENTORI DEL COPYRIGHT SARANNO RESPONSABILI PER QUALSIASI RECLAMO, DANNO O ALTRA
 RESPONSABILITÀ, SIA IN UN'AZIONE CONTRATTUALE, CHE IN UN ILLECITO O ALTRO, DERIVANTE DA,
-O IN CONNESSIONE CON IL SOFTWARE O L'USO O ALTRI RAPPORTI CON IL SOFTWARE.
+O IN CONNESSIONE CON IL SOFTWARE O L'USO O ALTRI RAPPORTI CON IL SOFTWARE.</pre>
