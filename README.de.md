@@ -1,6 +1,4 @@
-📄 README.de.md
-
-# Registration
+# Login Register
 
 Komplettes Benutzerregistrierungssystem
 
@@ -33,10 +31,12 @@ Komplettes Benutzerregistrierungssystem
    ```bash
    git clone https://github.com/your-username/login-register.git
    
-2. MySQL-Datenbank erstellen
+2. **MySQL-Datenbank erstellen**
+
 	Vorgeschlagener Name: login_register_db
 	
-3. Die Datei .env konfigurieren
+3. **Die Datei .env konfigurieren**
+
 	Beispieldatei kopieren:
 	
 	```bash
@@ -44,19 +44,45 @@ Komplettes Benutzerregistrierungssystem
 
 	.env bearbeiten und Ihre echten Zugangsdaten (Datenbank, E-Mail usw.) einfügen.
 	
-4. Server starten
+4. **Server starten**
+
 	Mit Apache/Nginx über VirtualHost oder:
 	
 	```bash
 	php -S localhost:8000 -t public
 	
-5. Auf die Anwendung zugreifen
-	Standard-URL: http://login-register.local
-- Composer (für PHPMailer, dompdf, masterminds/html5 und sabberworm/php-css-parser)
+5. **Auf die Anwendung zugreifen**
+
+	Standard-URL: http://localhost:8000
+	- Composer (für PHPMailer, dompdf, masterminds/html5 und sabberworm/php-css-parser)
 
 ---
+
+## 📄 Projektstruktur
+	plaintext
+
+	projektname/
+	│
+	├── app/            # Anwendungslogik
+	├── public/         # Öffentlich zugängliche Dateien
+	├── storage/        # Logs, Cache, Uploads
+	├── .env.example    # Beispiel-Konfigurationsdatei
+	└── README.md       # Dokumentation
+
+---
+
+## 🛠 Verwendete Technologien
+
+	- PHP
+	- MySQL
+	- Bootstrap 5
+	- JavaScript / jQuery
+	- PHPMailer
+	- Dompdf
 	
-📄 Über .env.example
+---
+	
+## 📄 Über .env.example
 
 	- Enthält Beispielwerte und dient als Vorlage für die .env-Datei.
 	- Enthält keine echten Zugangsdaten.
@@ -65,10 +91,23 @@ Komplettes Benutzerregistrierungssystem
 
 ---
 	
-🧾 Lizenz
+## 🧾 Lizenz
 
-© 2025 Giampaolo Arienti
+Urheberrecht (c) 2025 Giampaolo Arienti
 
-Diese Software wird unter der MIT-Lizenz veröffentlicht. Sie dürfen sie für beliebige Zwecke, einschließlich kommerzieller Nutzung, verwenden, kopieren, ändern und weitergeben, sofern dieser Hinweis und der vollständige Lizenztext enthalten sind.
+<pre>Jeder Person, die eine Kopie
+dieser Software und der zugehörigen Dokumentationsdateien (die "Software") erwirbt, wird hiermit kostenlos die Erlaubnis erteilt,
+mit der Software uneingeschränkt zu handeln, einschließlich und ohne Einschränkung der Rechte
+, Kopien der Software zu verwenden, zu kopieren, zu modifizieren, zusammenzuführen, zu veröffentlichen, zu vertreiben, Unterlizenzen zu vergeben und/oder
+Kopien der Software zu verkaufen, und Personen, denen die Software
+zur Verfügung gestellt wird, dies zu gestatten, vorbehaltlich der folgenden Bedingungen:
 
-DIE SOFTWARE WIRD "WIE BESEHEN" BEREITGESTELLT, OHNE JEGLICHE GARANTIEN.
+Der obige Copyright-Hinweis und dieser Genehmigungshinweis müssen in allen
+Kopien oder wesentlichen Teilen der Software enthalten sein.
+
+DIE SOFTWARE WIRD OHNE MÄNGELGEWÄHR ZUR VERFÜGUNG GESTELLT, OHNE AUSDRÜCKLICHE ODER
+STILLSCHWEIGENDE GEWÄHRLEISTUNG JEGLICHER ART, EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF DIE GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT,
+EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND NICHTVERLETZUNG VON RECHTEN. IN KEINEM FALL SIND DIE
+AUTOREN ODER URHEBER FÜR IRGENDWELCHE ANSPRÜCHE, SCHADENSERSATZANSPRÜCHE ODER SONSTIGE
+HAFTUNG, SEI ES BEI EINER VERTRAGSKLAGE, EINEM UNERLAUBTEN HANDEL ODER AUF ANDERE WEISE, HAFTBAR, DIE AUS, DURCH ODER IM ZUSAMMENHANG MIT DER SOFTWARE ODER DER NUTZUNG ODER ANDEREN HANDLUNGEN DER
+SOFTWARE ENTSTEHEN.</pre>
