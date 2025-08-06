@@ -103,9 +103,9 @@ Kopien der Software zu verkaufen, und Personen, denen die Software
 zur Verfügung gestellt wird, dies zu gestatten, vorbehaltlich der folgenden Bedingungen:
 
 Der obige Copyright-Hinweis und dieser Genehmigungshinweis müssen in allen
-Kopien oder wesentlichen Teilen der Software enthalten sein.
+Kopien oder wesentlichen Teilen der Software enthalten sein.</pre>
 
-DIE SOFTWARE WIRD OHNE MÄNGELGEWÄHR ZUR VERFÜGUNG GESTELLT, OHNE AUSDRÜCKLICHE ODER
+<pre>DIE SOFTWARE WIRD OHNE MÄNGELGEWÄHR ZUR VERFÜGUNG GESTELLT, OHNE AUSDRÜCKLICHE ODER
 STILLSCHWEIGENDE GEWÄHRLEISTUNG JEGLICHER ART, EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF DIE GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT,
 EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND NICHTVERLETZUNG VON RECHTEN. IN KEINEM FALL SIND DIE
 AUTOREN ODER URHEBER FÜR IRGENDWELCHE ANSPRÜCHE, SCHADENSERSATZANSPRÜCHE ODER SONSTIGE
