@@ -61,3 +61,7 @@ Thumbs.db
 langs/*.json
 # Eccezione: tieni solo messages.json
 !langs/messages.json
+
+.settings/
+.buildpath
+.project
