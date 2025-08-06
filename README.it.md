@@ -30,26 +30,26 @@ Sistema completo di registrazione utente
 ## 🚀 Installazione
 
 1. **Clona il repository**:
-   ```bash
+   bash
    git clone https://github.com/tuo-utente/login-register.git
    
-2. Crea il database MySQL
+2. **Crea il database MySQL**
 	Nome suggerito: login_register_db
 
-3. Configura il file .env
+3. **Configura il file .env**
 	
 	bash
 	cp .env.example .env
 
 	Modifica .env inserendo le tue credenziali reali (database, email, ecc.).
 	
-4. Avvia il Server
+4. **Avvia il Server**
 	Con Apache/Nginx tramite VirtualHost oppure:
    
    bash
    php -S localhost:8000 -t public
    
-5. Accedi all'applicazione
+5. **Accedi all'applicazione**
 	URL di default: http://login-register.local
 
 ---
