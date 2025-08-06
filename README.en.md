@@ -21,7 +21,7 @@ Complete User Registration System
 - PHP >= 8.1
 - MySQL / MariaDB
 - Apache/Nginx with `mod_rewrite` enabled
-- Composer (used for PHPMailer)
+- Composer (used for PHPMailer, dompdf, masterminds and sabberworm)
 
 ---
 
