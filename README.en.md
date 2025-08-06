@@ -1,4 +1,4 @@
-# Login Register
+# 📌 Login Register
 
 Complete user registration system
 
@@ -54,9 +54,34 @@ Complete user registration system
 
 5. **Access the application**
 
-	Default URL: http://login-register.local
+	Default URL: http://localhost:8000
+	
+---
+	
+## 📄 Project Structure
+
+	```plaintext
+	
+	project-name/
+	│
+	├── app/            # Application code
+	├── public/         # Publicly accessible files
+	├── storage/        # Logs, cache, uploads
+	├── .env.example    # Sample configuration file
+	└── README.md       # Project documentation
 
 ---
+
+## 🛠 Technologies Used
+
+	- PHP
+	- MySQL
+	- Bootstrap 5
+	- JavaScript / jQuery
+	- PHPMailer
+	- Dompdf
+
+...
 
 ##📄 About .env.example
 
