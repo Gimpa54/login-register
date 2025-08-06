@@ -2,7 +2,7 @@
 namespace App\Controllers;
 
 use App\Core\View;
-use App\Models\User;
+use App\Models\UserDevice;
 use App\Utils\Flash;
 use App\Utils\Helper;
 use App\Utils\Auth;
@@ -10,6 +10,7 @@ use App\Utils\TwoFactor;
 use App\Utils\Mailer;
 use App\Utils\RememberMe;
 use App\Utils\Logger;
+
 
 class TwoFactorController
 {
@@ -52,6 +53,13 @@ class TwoFactorController
             // ✅ Login
             Auth::login($user);
             
+            // ✅ Tracciamento dispositivo
+            (new UserDevice())->log(
+                $user->id,
+                $_SERVER['REMOTE_ADDR'] ?? 'unknown',
+                $_SERVER['HTTP_USER_AGENT'] ?? 'unknown'
+                );
+                  
             // ✅ Remember Me
             if (!empty($_SESSION['remember_me'])) {
                 RememberMe::create($user->id);

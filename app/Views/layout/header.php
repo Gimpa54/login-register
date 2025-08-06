@@ -23,6 +23,7 @@ use App\Utils\Auth;
           	<?php if (Auth::user()?->role === 'admin'): ?>
             	<li class="nav-item"><a class="nav-link" href="/admin/logs"><?= __('log')?></a></li>
             	<li class="nav-item"><a class="nav-link" href="/admin/security-log"><?= __('security')?></a></li>
+            	<li class="nav-item"><a class="nav-link" href="/account/devices">Dispositivi</a></li>
           	<?php endif; ?>
           	<li class="nav-item">
             	<a class="nav-link" href="/account/edit/<?= Auth::user()->id ?>">

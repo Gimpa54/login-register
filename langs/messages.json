@@ -1047,5 +1047,21 @@
         "es": "Si no ha solicitado este registro, puede ignorar este correo electrónico.",
         "fr": "Si vous n'avez pas demandé cet enregistrement, vous pouvez ignorer ce courriel.",
         "pt": "Se não solicitou este registo, pode ignorar esta mensagem de correio eletrónico."
+    },
+    "wrong_or_expired_code": {
+        "it": "Codice errato o scaduto",
+        "en": "Wrong or expired code",
+        "de": "Falscher oder abgelaufener Code",
+        "es": "Código incorrecto o caducado",
+        "fr": "Code erroné ou expiré",
+        "pt": "Código expirado errado ou"    
+    },
+    "you_are_already_authenticated": {
+        "it": "Siete già autenticati",
+        "en": "You are already authenticated",
+        "de": "Sie sind bereits authentifiziert",
+        "es": "Ya está autentificado",
+        "fr": "Vous êtes déjà authentifié",
+        "pt": "Já está autenticado"      
     }
 }

@@ -34,6 +34,7 @@
 namespace App\Core;
 
 use App\Core\Database;
+use App\Utils\Logger;
 
 class BaseModel extends Database
 {
@@ -116,6 +117,19 @@ class BaseModel extends Database
     {
         return $this->updateByColumn($this->table, $column, $value, $data);
     }
+    
+    public function updateAll(array $data, string $where, array $params = []): bool
+    {
+        $records = $this->fetchAll("SELECT id FROM {$this->table} WHERE $where", $params);
+        
+        foreach ($records as $record) {
+            Logger::debug("Aggiorno record ID {$record->id}", $data);
+            $this->updateById($this->table, (int)$record->id, $data);
+        }
+        
+        return true;
+    }
+    
 
     # Eliminazione
     

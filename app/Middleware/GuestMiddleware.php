@@ -11,7 +11,7 @@ class GuestMiddleware implements MiddlewareInterface
     {
         if (Auth::check()) {
             Flash::info(__('you_are_already_authenticated'));
-            Helper::redirect('/dashboard');
+            Helper::redirect('/user/dashboard');
             exit;
         }
         

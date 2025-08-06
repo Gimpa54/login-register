@@ -47,8 +47,10 @@ Router::post('/user/change-password/{id}', 'AccountController@updatePassword', [
 // Account
 // ==============================
 Router::get('/account/edit/{id}', 'AccountController@edit', ['auth', 'session']);
+Router::get('/account/devices', 'AccountController@devices', ['auth', 'session']);
 Router::get('/account/{id}', 'AccountController@index', ['auth', 'session']);
 Router::post('/account/edit/{id}', 'AccountController@update', ['auth', 'session']);
+
 
 // ==============================
 // Tema e lingua
@@ -71,6 +73,8 @@ Router::get('/admin/security-log', 'AdminSecurityController@index', ['auth', 'ad
 Router::get('/admin/logs', 'AdminLogController@index', ['auth', 'admin', 'session']);
 Router::get('/admin/logs/export-csv', 'AdminLogController@exportCsv', ['auth', 'admin', 'session']);
 Router::get('/admin/logs/export-pdf', 'AdminLogController@exportPdf', ['auth', 'admin', 'session']);
+
+
 
 
 

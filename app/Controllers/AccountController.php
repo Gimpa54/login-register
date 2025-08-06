@@ -188,4 +188,13 @@ class AccountController
         }
     }
     
+    public function devices()
+    {
+        Auth::requireLogin();
+        $userId = Auth::id();
+        $devices = (new \App\Models\UserDevice())->getByUser($userId);
+        View::render('account/devices', compact('devices'));
+    }
+    
+    
 }
