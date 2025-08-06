@@ -65,6 +65,29 @@ Sistema completo di registrazione utente
 
 ---
 
+## 📄 Struttura del progetto
+
+project-name/
+│
+├── app/            # Codice dell'applicazione
+├── public/         # File accessibili pubblicamente
+├── storage/        # Log, cache, upload
+├── .env.example    # File di configurazione di esempio
+└── README.md       # Documentazione
+
+---
+
+## 🛠 Tecnologie utilizzate
+
+	- PHP
+	- MySQL
+	- Bootstrap 5
+	- JavaScript / jQuery
+	- PHPMailer
+	- Dompdf
+
+...
+
 ## 🧾 Licenza MIT
 
 Copyright (c) 2025 Giampaolo Arienti
