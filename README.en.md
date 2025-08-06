@@ -29,10 +29,10 @@ Complete User Registration System
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/registration.git
+   git clone https://github.com/your-username/login-register.git
    ```
 
-2. Create the MySQL database `registration_db`
+2. Create the MySQL database `login_register_db`
 
 3. Copy and configure the `.env` file with your settings
 
@@ -41,7 +41,7 @@ Complete User Registration System
    php -S localhost:8000 -t public
    ```
 
-5. Open the app at: [http://registration.local](http://registration.local)
+5. Open the app at: [http://login-register.local](http://login-register.local)
 
 ---
 
