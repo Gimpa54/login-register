@@ -1,0 +1,19 @@
+{
+    "app\\Controllers\\": "C:\\Users\\acer\\Web\\login-register\/app\\Controllers\/",
+    "app\\Core\\": "C:\\Users\\acer\\Web\\login-register\/app\\Core\/",
+    "app\\Middleware\\": "C:\\Users\\acer\\Web\\login-register\/app\\Middleware\/",
+    "app\\Models\\": "C:\\Users\\acer\\Web\\login-register\/app\\Models\/",
+    "app\\Sessions\\": "C:\\Users\\acer\\Web\\login-register\/app\\Sessions\/",
+    "app\\Utils\\": "C:\\Users\\acer\\Web\\login-register\/app\\Utils\/",
+    "app\\Views\\": "C:\\Users\\acer\\Web\\login-register\/app\\Views\/",
+    "app\\Views\\account\\": "C:\\Users\\acer\\Web\\login-register\/app\\Views\\account\/",
+    "app\\Views\\admin\\": "C:\\Users\\acer\\Web\\login-register\/app\\Views\\admin\/",
+    "app\\Views\\admin\\users\\": "C:\\Users\\acer\\Web\\login-register\/app\\Views\\admin\\users\/",
+    "app\\Views\\auth\\": "C:\\Users\\acer\\Web\\login-register\/app\\Views\\auth\/",
+    "app\\Views\\errors\\": "C:\\Users\\acer\\Web\\login-register\/app\\Views\\errors\/",
+    "app\\Views\\home\\": "C:\\Users\\acer\\Web\\login-register\/app\\Views\\home\/",
+    "app\\Views\\layout\\": "C:\\Users\\acer\\Web\\login-register\/app\\Views\\layout\/",
+    "app\\Views\\partials\\": "C:\\Users\\acer\\Web\\login-register\/app\\Views\\partials\/",
+    "app\\Views\\user\\": "C:\\Users\\acer\\Web\\login-register\/app\\Views\\user\/",
+    "App\\": "C:\\Users\\acer\\Web\\login-register\/app\/"
+}
