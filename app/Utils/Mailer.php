@@ -4,7 +4,6 @@ namespace App\Utils;
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 use App\Utils\Env;
-use App\Utils\Lang;
 
 class Mailer
 {
@@ -70,6 +69,7 @@ class Mailer
     public static function sendPasswordReset(string $email, string $token): bool
     {
         $link = env('APP_URL') . "/reset-password/$token";
+        
         $subject = __('recover_your_password');
         $html = "<p>" . __('click_on_the_link_to_reset_your_password') . " :</p><p><a href=\"$link\">$link</a></p>";
         
@@ -96,11 +96,12 @@ class Mailer
     public static function sendActivationEmail(string $email, string $token): bool
     {
         $link = env('APP_URL') . "/activate/$token";
-        $subject = "Attiva il tuo account";
-        $html = "<p>Ciao,</p>
-             <p>Grazie per esserti registrato. Per completare la registrazione, clicca sul link qui sotto per attivare il tuo account:</p>
-             <p><a href=\"$link\">$link</a></p>
-             <p>Se non hai richiesto questa registrazione, puoi ignorare questa email.</p>";
+        
+        $subject = __('activate_your_account');
+        $html = "<p>" . __('hi') . ",</p>
+             <p>" . __('thanks_for_registering_click_to_activate') . "</p>
+             <p><a href=\"" . htmlspecialchars($link, ENT_QUOTES, 'UTF-8') . "\">$link</a></p>
+             <p>" . __('ignore_if_not_registered') . "</p>";
         
         $mailer = new self();
         return $mailer
@@ -111,4 +112,3 @@ class Mailer
     }
     
 }
-

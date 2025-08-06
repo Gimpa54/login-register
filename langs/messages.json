@@ -1015,5 +1015,37 @@
         "es": "Perfil actualizado correctamente.",
         "fr": "Mise à jour du profil réussie.",
         "pt": "Perfil atualizado com sucesso."    
+    },
+    "activate_your_account": {
+        "it": "Attiva il tuo account",
+        "en": "Activate your Account",
+        "de": "Aktivieren Sie Ihr Konto",
+        "es": "Activar su cuenta",
+        "fr": "Activer votre compte",
+        "pt": "Ativar a sua conta"     
+    },
+    "hi": {
+        "it": "Ciao",
+        "en": "Hi",
+        "de": "Hallo",
+        "es": "Hola",
+        "fr": "Bonjour",
+        "pt": "Hi"
+    },
+    "thanks_for_registering_click_to_activate": {
+        "it": "Grazie per esserti registrato. Per completare la registrazione, clicca sul link qui sotto per attivare il tuo account:",
+        "en": "Thank you for registering. To complete your registration, click on the link below to activate your account:",
+        "de": "Vielen Dank für Ihre Registrierung. Um Ihre Registrierung abzuschließen, klicken Sie auf den unten stehenden Link, um Ihr Konto zu aktivieren:",
+        "es": "Gracias por registrarse. Para completar su registro, haga clic en el siguiente enlace para activar su cuenta:",
+        "fr": "Merci de vous être inscrit. Pour compléter votre inscription, cliquez sur le lien ci-dessous pour activer votre compte:",
+        "pt": "Obrigado por se registar. Para completar o seu registo, clique na ligação abaixo para ativar a sua conta:"
+    },
+    "ignore_if_not_registered": {
+        "it": "Se non hai richiesto questa registrazione, puoi ignorare questa email.",
+        "en": "If you have not requested this registration, you can ignore this email.",
+        "de": "Wenn Sie diese Registrierung nicht beantragt haben, können Sie diese E-Mail ignorieren.",
+        "es": "Si no ha solicitado este registro, puede ignorar este correo electrónico.",
+        "fr": "Si vous n'avez pas demandé cet enregistrement, vous pouvez ignorer ce courriel.",
+        "pt": "Se não solicitou este registo, pode ignorar esta mensagem de correio eletrónico."
     }
 }
