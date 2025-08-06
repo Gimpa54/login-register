@@ -36,7 +36,9 @@ temp/
 # ===============================
 # 💾 Database dump e backup
 # ===============================
+# Esclude tutti i .sql tranne dump.sql
 *.sql
+!database/dump.sql
 *.sqlite
 *.db
 *.bak
@@ -65,3 +67,4 @@ langs/*.json
 .settings/
 .buildpath
 .project
+!.env.example
