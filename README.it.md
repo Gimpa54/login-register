@@ -29,40 +29,57 @@ Sistema completo di registrazione utente
 
 ## 🚀 Installazione
 
-1. Clona il progetto:
+1. **Clona il repository**:
    ```bash
    git clone https://github.com/tuo-utente/login-register.git
    
-2. Crea il database login_register_db in MySQL
+2. Crea il database MySQL
+	Nome suggerito: login_register_db
 
-3. Copia il file .env.example in .env:
-
-	```bash
+3. Configura il file .env
+	
+	bash
 	cp .env.example .env
 
-	Apri .env e inserisci le tue credenziali reali (database, email, ecc.).
+	Modifica .env inserendo le tue credenziali reali (database, email, ecc.).
 	
-4. Avvia Apache con VirtualHost o:
-   ```bash
+4. Avvia il Server
+	Con Apache/Nginx tramite VirtualHost oppure:
+   
+   bash
    php -S localhost:8000 -t public
    
-5. Accedi all'app: http://login-register.local
+5. Accedi all'applicazione
+	URL di default: http://login-register.local
 
 ---
 
-## 📄 Note su .env.example
+## 📄 Informazioni su .env.example
 
-	- Il file .env.example contiene valori di esempio e serve come modello.
-	- Non contiene credenziali reali.
-	- Prima di avviare l'app, copia .env.example in .env e modifica i valori secondo la tua configurazione.
-	- Il file .env non va mai caricato su GitHub (è già nel .gitignore).
+	- Contiene valori di esempio e funge da modello per il file .env.
+	- Non include credenziali reali.
+	- Prima di avviare l'applicazione, copialo in .env e modifica i valori secondo la tua configurazione.
+	- Il file .env non deve mai essere caricato su GitHub (è già incluso nel .gitignore).
 
 ---
 
 ## 🧾 Licenza MIT
 
-© 2025 Giampaolo Arienti
+Copyright (c) 2025 Giampaolo Arienti
 
-Questo software è distribuito con Licenza MIT. Puoi usarlo, copiarlo, modificarlo e distribuirlo liberamente, anche per scopi commerciali, a patto di includere questa nota e la licenza completa nei file distribuiti.
+Con la presente si concede il permesso, a titolo gratuito, a chiunque ottenga una copia
+di questo software e dei file di documentazione associati (il "Software"), di trattare
+il Software senza alcuna restrizione, inclusi, senza limitazioni, i diritti
+di usare, copiare, modificare, unire, pubblicare, distribuire, concedere in sublicenza e/o vendere
+copie del Software, e di permettere a coloro ai quali il Software viene
+fornito di farlo, alle seguenti condizioni:
 
-IL SOFTWARE VIENE FORNITO "COSÌ COM'È", SENZA GARANZIE DI ALCUN TIPO.
+L'avviso di copyright di cui sopra e questo avviso di autorizzazione devono essere inclusi
+in tutte le copie o parti sostanziali del Software.
+
+IL SOFTWARE VIENE FORNITO "COSÌ COM'È", SENZA GARANZIE DI ALCUN TIPO, ESPRESSE O
+IMPLICITE, INCLUSE, A TITOLO ESEMPLIFICATIVO, LE GARANZIE DI COMMERCIABILITÀ,
+IDONEITÀ PER UNO SCOPO PARTICOLARE E NON VIOLAZIONE. IN NESSUN CASO GLI
+AUTORI O I DETENTORI DEL COPYRIGHT SARANNO RESPONSABILI PER QUALSIASI RECLAMO, DANNO O ALTRA
+RESPONSABILITÀ, SIA IN UN'AZIONE CONTRATTUALE, CHE IN UN ILLECITO O ALTRO, DERIVANTE DA,
+O IN CONNESSIONE CON IL SOFTWARE O L'USO O ALTRI RAPPORTI CON IL SOFTWARE.
