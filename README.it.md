@@ -1,3 +1,5 @@
+📄 README.it.md
+
 # Registration
 
 Sistema completo di registrazione utente
@@ -9,7 +11,7 @@ Sistema completo di registrazione utente
 - Verifica a due fattori (2FA)
 - Ruoli e permessi (admin, moderatore, utente)
 - Tema chiaro/scuro
-- Supporto multilingua (Italiano/Inglese)
+- Supporto multilingua: Italiano, Inglese, Tedesco, Spagnolo, Francese, Portoghese
 - Dashboard utente e pannello amministratore
 - Protezione CSRF, timeout di sessione, limitatore tentativi login
 - Logger, validatore, uploader, sistema mail e altro
@@ -30,18 +32,30 @@ Sistema completo di registrazione utente
 1. Clona il progetto:
    ```bash
    git clone https://github.com/tuo-utente/login-register.git
-   ```
+   
+2. Crea il database login_register_db in MySQL
 
-2. Crea il database `login_register_db` in MySQL
+3. Copia il file .env.example in .env:
 
-3. Copia e configura il file `.env` con le tue credenziali
+	```bash
+	cp .env.example .env
 
+	Apri .env e inserisci le tue credenziali reali (database, email, ecc.).
+	
 4. Avvia Apache con VirtualHost o:
    ```bash
    php -S localhost:8000 -t public
-   ```
+   
+5. Accedi all'app: http://login-register.local
 
-5. Accedi all'app: [http://login-register.local](http://login-register.local)
+---
+
+## 📄 Note su .env.example
+
+	- Il file .env.example contiene valori di esempio e serve come modello.
+	- Non contiene credenziali reali.
+	- Prima di avviare l'app, copia .env.example in .env e modifica i valori secondo la tua configurazione.
+	- Il file .env non va mai caricato su GitHub (è già nel .gitignore).
 
 ---
 
