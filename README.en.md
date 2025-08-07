@@ -12,7 +12,7 @@ Complete user registration system
 - Multilanguage support: Italian, English, German, Spanish, French, Portuguese
 - User dashboard and administration panel
 - CSRF protection, session timeout, login attempt throttling
-- Logger, validator, uploader, mailing system, and more
+- Logger, validator, uploader, mailing system and more...
 
 ---
 
