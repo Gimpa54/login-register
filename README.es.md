@@ -12,7 +12,7 @@ Sistema completo de registro de usuarios
 - Soporte multilingüe: Italiano, Inglés, Alemán, Español, Francés, Portugués
 - Panel de usuario y panel de administración
 - Protección CSRF, tiempo de espera de sesión, limitación de intentos de inicio de sesión
-- Logger, validador, cargador, sistema de correo electrónico y más
+- Logger, validador, cargador, sistema de correo electrónico y más...
 
 ---
 
