@@ -12,7 +12,7 @@ Komplettes Benutzerregistrierungssystem
 - Mehrsprachige Unterstützung: Italienisch, Englisch, Deutsch, Spanisch, Französisch, Portugiesisch
 - Benutzer-Dashboard und Administrationsbereich
 - CSRF-Schutz, Sitzungs-Timeout, Begrenzung der Anmeldeversuche
-- Logger, Validator, Uploader, Mailsystem und mehr...
+- Logger, Validator, Uploader, Mailsystem und mehr....
 
 ---
 
