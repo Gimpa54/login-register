@@ -12,7 +12,7 @@ Sistema completo de registro de usuários
 - Suporte multilíngue: Italiano, Inglês, Alemão, Espanhol, Francês, Português
 - Painel do usuário e painel de administração
 - Proteção CSRF, tempo limite de sessão, limitação de tentativas de login
-- Logger, validador, uploader, sistema de e-mail e muito mais
+- Logger, validador, uploader, sistema de e-mail e muito mais...
 
 ---
 

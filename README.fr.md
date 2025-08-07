@@ -12,7 +12,7 @@ Système complet d'inscription des utilisateurs
 - Support multilingue : Italien, Anglais, Allemand, Espagnol, Français, Portugais
 - Tableau de bord utilisateur et panneau d'administration
 - Protection CSRF, expiration de session, limitation des tentatives de connexion
-- Logger, validateur, uploader, système de messagerie et plus encore
+- Logger, validateur, uploader, système de messagerie et plus encore...
 
 ---
 
